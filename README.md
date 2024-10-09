@@ -16,5 +16,6 @@ Fast link for Version 21-Windows: https://github.com/gluonhq/scenebuilder/releas
 **Instructions**
 - Clone/Fork/Download the repository
 - Import or open it in NetBeans
+- If needed, adjust the JDK platform (go to the projct properties->libraries->Java Platform and choose JDK 21)
 - Modify as you please (also with SceneBuilder)
 - Enjoy
