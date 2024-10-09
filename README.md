@@ -10,6 +10,7 @@
 Fast link for Version 21-Windows: https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi
  - Install NetBeans (any): https://netbeans.apache.org/front/main/download/nb23/.  
 Fast link for Version 23-Windows: https://www.apache.org/dyn/closer.lua/netbeans/netbeans-installers/23/Apache-NetBeans-23-bin-windows-x64.exe
+ - If needed, configure the JDK in NetBeans by going in Tools->Java Platforms and adding the desired JDK through the "Add Platform" button
  - Install SceneBuilder from here: https://github.com/gluonhq/scenebuilder/releases.  
 Fast link for Version 21-Windows: https://github.com/gluonhq/scenebuilder/releases/download/21.0.1-RC/SceneBuilder-21.0.1-RC.msi
 
