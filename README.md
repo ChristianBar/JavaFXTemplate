@@ -1,5 +1,5 @@
 # JavaFXTemplate
- Template for **JavaFX** projects in **NetBeans**.
+ **Windows x64** Template for **JavaFX** projects in **NetBeans**.
  
  Using **JDK 21** and **JavaFX/SceneBulder 21**.
  
